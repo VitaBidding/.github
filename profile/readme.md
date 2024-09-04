@@ -7,11 +7,11 @@ front-end|back-end
 </br></br></br>
 
 ## Team docs
+Team Notion Link</br>
+</br>
 Wireframe Link</br>
 </br>
 ERDCloud Link</br>
 </br>
 REST API Link</br>
-</br>
-Team Notion Link</br>
 </br>
