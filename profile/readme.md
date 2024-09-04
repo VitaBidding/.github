@@ -7,7 +7,7 @@ front-end|back-end
 </br></br></br>
 
 ## Team docs
-Team Notion Link</br>
+Notion Link</br>
 </br>
 Wireframe Link</br>
 </br>
